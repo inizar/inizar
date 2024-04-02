@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @inizar
-- 👀 I’m interested in C++, Python, electronics.
+- 👀 I’m interested, Python, electronics.
 - 🌱 I’m currently learning more...
 
 
